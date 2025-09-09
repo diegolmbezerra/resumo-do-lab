@@ -92,7 +92,7 @@ A nuvem permite a implantação de recursos em múltiplas regiões geográficas 
 5. Previsibilidade de Custos
 Oferece uma maior previsibilidade tanto no desempenho dos recursos quanto nos custos operacionais. Com ferramentas de monitoramento e calculadoras de preços, é possível estimar com mais confiança os valores que serão cobrados ao final do mês, evitando surpresas no orçamento.
 
-Claro! Suas anotações sobre os tipos de serviços de nuvem estão ótimas como ponto de partida. Abaixo, elas estão aprimoradas e organizadas em um formato mais claro e didático, ideal para estudo e consulta.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Modelos de Serviço da Computação em Nuvem
 Os serviços de nuvem são geralmente divididos em três modelos principais. Cada um oferece um nível diferente de controle, flexibilidade e gerenciamento, permitindo que você escolha o que melhor se adapta às suas necessidades.
